@@ -1,0 +1,19 @@
+{
+  "name": "npm-template",
+  "description": "NPM template",
+  "version": "0.0.1",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jaimebustose/npm-template"
+  },
+  "keywords": [],
+  "author": "Jaime Bustos Espinoza <jaime.bustos.espinozaa@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jaimebustose/npm-template/issues"
+  },
+  "homepage": "https://github.com/jaimebustose/npm-template"
+}
