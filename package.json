@@ -1,13 +1,13 @@
 {
-  "name": "npm-template",
-  "description": "NPM template",
+  "name": "@jabe-org/model",
+  "description": "Model is a library to create clean typed models",
   "version": "0.0.1",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jaimebustose/npm-template"
+    "url": "git+https://github.com/jaimebustose/model.git"
   },
   "keywords": [],
   "author": "Jaime Bustos Espinoza <jaime.bustos.espinozaa@gmail.com>",
@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/jaimebustose/npm-template/issues"
   },
-  "homepage": "https://github.com/jaimebustose/npm-template"
+  "homepage": "https://github.com/jaimebustose/model",
+  "main": "index.js"
 }
